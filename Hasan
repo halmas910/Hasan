@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Hasan Almas – Yazılım, Web Tasarımı ve Sosyal Medya Uzmanı</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, Helvetica, sans-serif;
+      line-height: 1.6;
+      background-color: #fdfdfd;
+      color: #333;
+    }
+    header {
+      background-color: #f4f4f4;
+      padding: 2rem 1rem;
+      text-align: center;
+    }
+    h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    section {
+      max-width: 800px;
+      margin: 2rem auto;
+      padding: 0 1rem;
+    }
+    h2 {
+      font-size: 1.5rem;
+      margin-top: 0;
+      color: #333;
+      border-bottom: 2px solid #333;
+      padding-bottom: 0.5rem;
+    }
+    p, li {
+      font-size: 1rem;
+      line-height: 1.6;
+    }
+    ul {
+      padding-left: 1.2rem;
+      margin: 1rem 0;
+    }
+    li {
+      margin-bottom: 0.5rem;
+    }
+    a {
+      color: #0066cc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+    /* Responsive image styling (if images are added in the future) */
+    img {
+      max-width: 100%;
+      height: auto;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>Hasan Almas – Yazılım, Web Tasarımı ve Sosyal Medya Uzmanı</h1>
+  </header>
+
+  <section id="hakkimda">
+    <h2>Hakkımda</h2>
+    <p>Yazılım, bilişim, web tasarımı ve sosyal medya alanlarına büyük bir tutkuyla bağlı, deneyimli bir dijital profesyonelim. Yıllardır bu sektörlerde çeşitli projeler geliştirerek uzmanlık edindim. Teknolojiye olan merakım sayesinde yenilikçi ve kullanıcı odaklı dijital çözümler üretmeye odaklanıyorum. Sürekli öğrenmeye devam ederek kendimi güncel tutuyor ve dijital dünyadaki en iyi uygulamaları yakından takip ediyorum.</p>
+  </section>
+
+  <section id="projeler">
+    <h2>Projeler</h2>
+    <ul>
+      <li><strong>Kurumsal Web Sitesi Tasarımı –</strong> Mobil uyumlu ve modern tasarım ilkeleriyle hazırlanmış şık bir şirket sitesi.</li>
+      <li><strong>Ürün Lansmanı Sosyal Medya Kampanyası –</strong> Instagram ve TikTok'ta yüksek etkileşim getiren yaratıcı bir pazarlama kampanyası.</li>
+      <li><strong>E-ticaret Platformu Geliştirme –</strong> Kullanıcı dostu arayüz ve güvenli ödeme entegrasyonuna sahip bir online alışveriş platformu.</li>
+    </ul>
+  </section>
+
+  <section id="iletisim">
+    <h2>İletişim</h2>
+    <p>Tel: <a href="tel:+31614768615">+31 0614768615</a><br>
+       E-posta: <a href="mailto:hasanalmas@example.com">hasanalmas@example.com</a></p>
+  </section>
+
+  <section id="sosyal-medya">
+    <h2>Sosyal Medya</h2>
+    <p><a href="https://www.instagram.com/Hasanalms1" target="_blank" rel="noopener noreferrer">Instagram: @Hasanalms1</a><br>
+       <a href="https://www.tiktok.com/@h.almas63" target="_blank" rel="noopener noreferrer">TikTok: @h.almas63</a></p>
+  </section>
+</body>
+</html>
